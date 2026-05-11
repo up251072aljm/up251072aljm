@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **up251072aljm/up251072aljm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
