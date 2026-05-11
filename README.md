@@ -7,8 +7,7 @@
 -----------------------------------------------------------------------
 https://www.youtube.com/watch?v=h8SSggpf8Kg
 -----------------------------------------------
-.selector {
-    background-image: url('https://t4.ftcdn.net/jpg/18/42/74/15/360_F_1842741516_MMzlsmzSKrdxUOhn9RvxiZRCVt740znF.jpg')
+    <img src="https://t4.ftcdn.net/jpg/18/42/74/15/360_F_1842741516_MMzlsmzSKrdxUOhn9RvxiZRCVt740znF.jpg">
     
   </html>
 }
